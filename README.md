@@ -6,5 +6,5 @@
 - 🎮 Zelda | Genshin Impact | ...
 - 🏀 
 
-<img src="./src/wechat.jpeg" style="zoom:25%;" />
+<img src="./src/wechat.jpeg" style="width:150px" align='left' />
 
