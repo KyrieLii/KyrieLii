@@ -1,7 +1,7 @@
 ### About Me
 
 - 📍 Shanghai
-- 👨‍💻‍ Front-End Programmer
+- 👨‍💻‍ Front-End Developer
 - 👉 1994 & ♋️
 - 🐈 miao ~~
 - 🎮 Genshin Impact | Zelda | ...
