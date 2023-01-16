@@ -1,6 +1,6 @@
 ### About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=KyrieLii&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=KyrieLii&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
 
 📍  Shanghai, China.  
 👨‍💻‍  Frontend developer working at Bytedance, in the web infra team.  
